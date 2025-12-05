@@ -46,27 +46,19 @@ Con Retail Cash Manager puedes:
 
 1. Clonar el repositorio:
 
-```bash
 git clone https://github.com/Saquero/retail-cash-manager-cierres.git
 cd retail-cash-manager-cierres
 Instalar dependencias:
 
-bash
-Copiar código
 npm install
 Ejecutar en modo desarrollo:
 
-bash
-Copiar código
 npm run dev
 Generar instalador para Windows:
 
-bash
-Copiar código
 npm run build:win
 El instalador aparecerá en:
 
-Copiar código
 dist-electron-builder/
 Ese archivo .exe se puede instalar en cualquier PC Windows.
 
@@ -95,7 +87,10 @@ MIT © 2025 Manu Saquero
 📬 Contacto
 
 💼 Proyecto creado por Manu Saquero
-🧠 DevOps + Backend Developer | Apasionado por crear productos útiles
+🧠 Full Stack Developer | Apasionado por crear productos útiles
 🔗 GitHub: https://github.com/Saquero
 🔗 LinkedIn: https://linkedin.com/in/manusaquero
+
+```
+
 ```
