@@ -8,26 +8,27 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
-# Dependencies
-node_modules/
+# Dependencias
+node_modules
 
-# Build outputs
-dist/
-dist-ssr/
-dist-electron/
-dist-electron-builder/
+# Builds frontend / electron
+dist
+dist-ssr
+dist-electron
+dist-electron-builder
 
-# System files
+# Instaladores
+*.exe
+*.msi
+
+# Archivos locales
 *.local
-.DS_Store
-Thumbs.db
 
-# Editor
+# Editor directories and files
 .vscode/*
 !.vscode/extensions.json
 .idea
-
-# Others
+.DS_Store
 *.suo
 *.ntvs*
 *.njsproj
