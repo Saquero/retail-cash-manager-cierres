@@ -9,12 +9,15 @@ Está pensada para negocios que trabajan con **2 cajas + cajón de cambio**, don
 - Comprobar si el fondo final **cuadra o no cuadra**,
 - Guardar un histórico de cierres para revisar después.
 
----
-
 ## 🖥️ Vista previa
 
-```md
+### 🖼️ Vista principal
+
 ![Retail Cash Manager – Main Screen](./screenshots/main-window.png)
+
+### 🔴 Día que no cuadra
+
+![Retail Cash Manager – Unbalanced Day](./screenshots/unbalanced-day.png)
 
 🚀 ¿Qué hace esta app?
 
@@ -244,4 +247,7 @@ Proyecto creado por Manu Saquero
 
 📩 ¿Te interesa adaptar esta herramienta a tu comercio o empresa?
 Estoy abierto a colaborar, mejorarla o crear nuevas herramientas para automatizar tareas repetitivas en tienda.
+
+```
+
 ```
